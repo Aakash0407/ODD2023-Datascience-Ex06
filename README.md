@@ -1,4 +1,3 @@
-![8](https://github.com/Aakash0407/ODD2023-Datascience-Ex06/assets/118799103/640ec72c-d064-45ac-a53a-aae703a21001)# EX-06 FEATURE TRANSFORMATION
 ### Aim:
 To read the given data and perform Feature Transformation process and save the data to a file.
 ### Explanation:
